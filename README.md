@@ -1,4 +1,4 @@
-# Mon Espace GitHub – Développeur en Apprentissage
+# Développeur en Apprentissage
 
 Bienvenue dans mon repository principal ! 🎉  
 

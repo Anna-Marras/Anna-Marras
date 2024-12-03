@@ -52,7 +52,9 @@ Dans ce projet, j'ai contribué à la mise en place des variables de base du jeu
 ### 🔧 Technologies utilisées :
 - **HTML5**, **CSS3**
 
-- Si vous souhaitez me contacter, vous pouvez me trouver sur les plateformes suivantes :
+
+
+Si vous souhaitez me contacter, vous pouvez me trouver sur les plateformes suivantes :
 
 - **Email** : anna.marras@laplateforme.io
 - **LinkedIn** : Profil LinkedIn

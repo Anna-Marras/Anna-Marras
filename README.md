@@ -1,3 +1,5 @@
+![Banner](Beige Modern Elegant Personal LinkedIn Banner.jpg)
+
 # Développeur en Apprentissage
 
 Bienvenue dans mon repository principal ! 🎉  
